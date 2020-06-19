@@ -1,23 +1,36 @@
 class Translation(object):
-    START_TEXT = """Hai,I Am URL Uploader
-      
+    START_TEXT = """
+╔┓┏╦━╦┓╔┓╔━━╗
+
+║┗┛║┗╣┃║┃║X X║
+
+║┏┓║┏╣┗╣┗╣╰╯║
+
+╚┛┗╩━╩━╩━╩━━╝
+
+WELCOME,
+
 ☛ URL with Custom Thumbnail Support..
 
 ☛ Send - url | New Name.Extension
-                   
+
+👉  MY CREATOR ✰ : @NGYNY
+
+👉  Support Channel ✰ : @NGY_BOTS
+
 ☛ /help for more details..."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "This is Free Service. No Upgrade Plans 😜"
+    UPGRADE_TEXT = "This is Free Service. No Upgrade Plans 😜 @NGY_BOTS"
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
-    NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    NOYES_URL = "@NGY_BOTS URL detected. Please use https://NGY_BOTS and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "Downloading..."
     UPLOAD_START = "uploading..."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thank You For Using Me @AID_3N"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thank You For Using Me @NGYNY"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}."
@@ -26,8 +39,8 @@ URL | filename | username | password"""
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = " "
-    NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
+    NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom Thumbail found."
+    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>NGY_BOTS</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
@@ -40,7 +53,8 @@ Expires on: Untill my death ☭"""
    SVideo - Give File as video with Screenshots
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
-   File  - Give File without Screenshots</b>"""
+   File  - Give File without Screenshots
+4. CHANNEL 👉 : NGY_BOTS </b>"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
@@ -56,11 +70,11 @@ Expires on: Untill my death ☭"""
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = "Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
     INVALID_UPLOAD_BOT_URL_FORMAT = "URL format is incorrect. make sure your url starts with either http:// or https://. You can set custom file name using the format link | file_name.extension"
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
-    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "https://telegram.dog/FFMpegRoBot"
+    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "https://telegram.dog/NGY_BOTS"
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
-    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
+    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/NGYNY'>😎 N I K H I L 😎</a>"
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
     CANCEL_STR = "Process Cancelled"
@@ -68,4 +82,4 @@ You can use /rename command after receiving file to rename it with custom thumbn
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
 Free users only 1 request per 30 minutes.
 /upgrade or Try 1800 seconds later."""
-    SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://t.me/NGY_BOTS and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
